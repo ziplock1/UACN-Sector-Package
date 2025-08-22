@@ -1,0 +1,63 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Maxim\Documents\EuroScope\UACN test\UACN-Developer-Package_20250818103050-241301-0003.sct
+SECTORTITLE:UACN-Developer-Package_20250818103050-241301-0003.sct
+Runways:UACC 04-22:extended centerline 1
+Runways:UACC 04-22:extended centerline 1 left ticks
+Runways:UACC 04-22:extended centerline 1 right ticks
+Runways:UACC 04-22:extended centerline 2
+Runways:UACC 04-22:extended centerline 2 left ticks
+Runways:UACC 04-22:extended centerline 2 right ticks
+Runways:UACK 02-20:extended centerline 1
+Runways:UACK 02-20:extended centerline 1 left ticks
+Runways:UACK 02-20:extended centerline 1 right ticks
+Runways:UACK 02-20:extended centerline 2
+Runways:UACK 02-20:extended centerline 2 left ticks
+Runways:UACK 02-20:extended centerline 2 right ticks
+Runways:UACP 05-23:extended centerline 1
+Runways:UACP 05-23:extended centerline 1 left ticks
+Runways:UACP 05-23:extended centerline 1 right ticks
+Runways:UACP 05-23:extended centerline 2
+Runways:UACP 05-23:extended centerline 2 left ticks
+Runways:UACP 05-23:extended centerline 2 right ticks
+Runways:UAKD 04-22:centerline
+Runways:UAKD 04-22:extended centerline 1
+Runways:UAKD 04-22:extended centerline 1 left ticks
+Runways:UAKD 04-22:extended centerline 1 right ticks
+Runways:UAKD 04-22:extended centerline 2
+Runways:UAKD 04-22:extended centerline 2 left ticks
+Runways:UAKD 04-22:extended centerline 2 right ticks
+Runways:UAKD 04-22:name
+Runways:UAKK 05-23:extended centerline 1
+Runways:UAKK 05-23:extended centerline 1 left ticks
+Runways:UAKK 05-23:extended centerline 1 right ticks
+Runways:UAKK 05-23:extended centerline 2
+Runways:UAKK 05-23:extended centerline 2 left ticks
+Runways:UAKK 05-23:extended centerline 2 right ticks
+Runways:UASP 03-21:extended centerline 1
+Runways:UASP 03-21:extended centerline 1 left ticks
+Runways:UASP 03-21:extended centerline 1 right ticks
+Runways:UASP 03-21:extended centerline 2
+Runways:UASP 03-21:extended centerline 2 left ticks
+Runways:UASP 03-21:extended centerline 2 right ticks
+Runways:UAUU 14-32:extended centerline 1
+Runways:UAUU 14-32:extended centerline 1 left ticks
+Runways:UAUU 14-32:extended centerline 1 right ticks
+Runways:UAUU 14-32:extended centerline 2
+Runways:UAUU 14-32:extended centerline 2 left ticks
+Runways:UAUU 14-32:extended centerline 2 right ticks
+SHOWC:1
+SHOWSB:1
+BELOW:1500
+ABOVE:0
+LEADER:7
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:ATM System Alpha 5
+WINDOWAREA:49.834129:68.029545:52.282765:75.087330
