@@ -54,15 +54,8 @@ TeamSpeakVccs	Ts3DialogRight	1830
 TeamSpeakVccs	Ts3DialogBottom	610
 TeamSpeakVccs	Ts3G2APtt	3670016
 TeamSpeakVccs	Ts3G2GPtt	3670016
-Voice	input_hardware	Wave - mik (Realtek High Definition Au
-Voice	output_hardware	Wave - din (Realtek High Definition Au
-Voice	PPPT	3670016
 Plugins	Plugin0	\UACN\Plugins\Ground-Radar-Plugin\GRplugin.dll
 Plugins	Plugin0Display0	Ground Radar display
-TeamSpeakVccs	PlaybackMode	Windows Audio Session
-TeamSpeakVccs	PlaybackDevice	Наушники гарнитуры (2- JBL Quantum 810 Wireless* Chat)
-TeamSpeakVccs	CaptureMode	Windows Audio Session
-TeamSpeakVccs	CaptureDevice	Микрофон (2- JBL Quantum 810 Wireless* Chat)
 LastSession	atis_freq4	118000
 Plugins	Plugin1	\UACN\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
@@ -77,7 +70,6 @@ RecentFiles	Recent5	\UACN\ASR\GND\UAKD_GND.asr
 RecentFiles	Recent6	\UACN\ASR\GND\UACP_GND.asr
 RecentFiles	Recent7	\UACN\ASR\GND\UASP_GND.asr
 RecentFiles	Recent8	\UACN\ASR\GND\UACK_GND.asr
-Settings	sector	\UACN-Developer-Package_20250818103050-241301-0003.sct
 Plugins	Plugin0Display1	Standard ES radar screen
 LastSession	atis_freq0	129500
 LastSession	atis_url0	https://vatis.ru/P-FBABDD45?arrp=$atisairportA&arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&info=$atiscodeA
@@ -93,14 +85,4 @@ Plugins	Plugin2	\UACN\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	\UACN\Plugins\Timer\ESTimers.dll
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
-LastSession	connecttype	0
-LastSession	callsign	UACC_R_APP
-LastSession	facility	5
-LastSession	rating	0
-LastSession	tovatsim	1
-LastSession	atis2	Astana-Radar/������-����
-LastSession	atis3	Monitor ATIS on 129.500
-LastSession	atis4	Charts and scenery on vatrus.info
-LastSession	range	150
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
+
